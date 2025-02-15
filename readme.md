@@ -35,3 +35,4 @@ This should be on the same server from which you wish to run the Telegram Bot.
 ### Demo
 
 Live demo could be found (and used) at [telegramhook.tk](http://telegramhook.tk). (NB: no https yet on my server, use with caution and be aware of MiTM.)
+v2.2
